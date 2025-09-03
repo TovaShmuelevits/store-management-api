@@ -1,0 +1,38 @@
+# Build folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VSCode / Visual Studio
+.vscode/
+.vs/
+
+# Logs & temp
+*.log
+*.tmp
+*.temp
+*.bak
+
+# Packages
+*.nupkg
+*.snupkg
+
+# קונפיג מקומי עם סיסמאות
+appsettings.Development.json
+appsettings.*.json
+!appsettings.json
+
+# Rider / JetBrains
+.idea/
+
+# System
+*.DS_Store
+Thumbs.db
+
+# Launch profiles
+launchSettings.json
